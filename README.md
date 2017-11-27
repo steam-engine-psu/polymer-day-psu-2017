@@ -1,4 +1,5 @@
-# <polymer-day location="psu" year="2017">
+# Polymer day psu 2017!
+`<polymer-day location="psu" year="2017">`
 
 Polymer day PSU happened at the Penn State Dreamery on Wed November 15th. It was an all day training on Polymer and web components.
 
